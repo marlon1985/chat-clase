@@ -15,4 +15,4 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'BACKEND.settings')
 
 application = get_wsgi_application()
 
-birdchat= application
+app= application
